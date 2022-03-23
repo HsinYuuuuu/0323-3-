@@ -1,0 +1,23 @@
+@charset "utf-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+.container header h1 {
+    color: #E79E9F;
+    text-align: center;
+}
+.container p a:hover  {
+    color: #D983E8;
+}
+.container p a {
+    color: #4C0966;
+}
+.heroimg {
+    height: 250px;
+    background-position: center center;
+    background-size: cover;
+}
+.container {
+}
